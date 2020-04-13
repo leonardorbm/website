@@ -1,0 +1,116 @@
+.skillCard{
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 90vw;
+    padding:1vh 1vw 1vh 1vw;
+    border-radius:1vh;
+    margin:0 1vw 0 0;
+    cursor:pointer;
+}
+
+.skillCard:hover{
+    background-color: black;
+    color:white;
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 90vw;
+    padding:1vh 1vw 1vh 1vw;
+    border-radius:1vh;
+    margin:0 1vw 0 0;
+    cursor:pointer;
+}
+
+
+
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+    outline:black;
+    border-radius:50%;
+    border: 1px solid black;
+    vertical-align:middle;
+    text-align: center;
+    font-size:0.5em;
+}
+
+.carousel-control-next-icon:after{
+    content: '>';
+    color:black;
+}
+.carousel-control-prev-icon:after{
+    content: '<';
+    color:black;
+}
+.carousel-indicators li{
+    background-color: black;
+}
+
+.carouselItem{
+    margin:4vh 0 18vh 0;
+    position:relative;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
+    width:80%;
+    left:10%;
+    height:55vh;
+    display: table;
+
+}
+.carousel-caption{
+    margin:1vh;
+    padding:3vh;
+    color:grey;
+}
+.cardsWrapper{
+    text-align: center;
+    width:100%;
+}
+.cardsWrapper form{
+    position:relative;
+    padding:2vh;
+    width:90%;
+    left:5%;
+}
+
+.carouselItem .label{
+    width:100%;
+    background-color: black;
+    color:white;
+    font-size:120%;
+}
+.carouselItem .description{
+    text-align:left;
+    padding:1vh 1vw 0 1vw;
+    max-height:45vh;
+    overflow-y: scroll;
+}
+
+.App.mobile_true .content .cardsWrapper{
+    width:90vw;
+    height:90%;
+}
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-list  {
+    height:90%;
+
+}
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-track li    {
+
+}
+
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-track li div .carouselItem{
+    margin:0 10vw 0 0;
+    padding:0;
+    width:90vw;
+}
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-track li div .carouselItem .label{
+    width:90vw;
+}
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-track li div .carouselItem .description{
+    font-size:80%;
+    width:100%;
+    text-align:left;
+}
+.App.mobile_true .content .cardsWrapper .react-multi-carousel-track li div .carouselItem .description p{
+    font-size:80%;
+    width:90%;
+    padding:0 2vw 0 2vw;
+}

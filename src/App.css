@@ -1,0 +1,176 @@
+.App {
+  text-align: center;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size:5vh;
+}
+.footer svg{
+  margin:0 1vw 0 0;
+}
+.content{
+  color: black;
+  font-size:3vh;
+  padding:1vh 0 0 1vw;
+  margin:0;
+  text-align:left;
+}
+.content p{
+  padding:0;
+  margin:0;
+}
+.languageFlags{
+
+    width: 20vh;
+    overflow: hidden; /* add this to contain floated children */
+}
+.languageFlags .imgWrapper{
+    height:10vh;
+    max-width: 45%;
+    float:left; /* add this */
+}
+.App.mobile_true{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.App.mobile_true nav{
+    position:fixed;
+    background-color: cadetblue;
+    z-index:1;
+    width:100vw;
+}
+.App.mobile_false nav, .App.mobile_true nav{
+    max-height:10vh;
+}
+
+.navbar-collapse.collapse.show{
+    z-index:1;
+    background-color: white;
+
+}
+.App.mobile_true nav img{
+    max-width:50vw;
+    margin:0;
+    padding:0;
+}
+
+.App.mobile_true .content{
+    position:relative;
+    top:9vh;
+    z-index:0;
+    width:96vw;
+    overflow-x: hidden;
+    padding:1vh 0 10vh 0;
+}
+.App.mobile_true .content p{
+    text-align:justify;
+    width:95vw;
+
+}
+
+.App.mobile_true .footer{
+    position: fixed;
+    top: 90vh;
+    width: 100%;
+    height: 10vh;
+    padding:0;
+    -webkit-backface-visibility: hidden;
+    z-index:3;
+}
+
+
+.App.mobile_true .content #professionalExperience #experienceCardsWrapper, .App.mobile_true .content #professionalExperience #experienceCardsWrapper div{
+    text-align:left;
+
+}
+
+
+.App.mobile_true .content .aboutMe.mobile_true .aboutMeInner .left{
+    display:none;
+}
+
+.App.mobile_true .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand:first-child{
+    border-radius: 50%;
+    width:19vw;
+    height:19vw;
+    overflow:auto;
+    z-index:3;
+    box-shadow: 0 0.5vh 1vh 0 black;
+    text-align:center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin:0;
+    padding:0;
+}
+
+.App.mobile_true .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand:first-child img{
+    position:relative;
+    left:0;
+    top:-2vh;
+    width:9vh;
+    height:13vh;
+    margin:0;
+    padding:0;
+}
+
+.App.mobile_true .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand:nth-child(2){
+    width:50vw;
+    height:19vw;
+    overflow:auto;
+    z-index:3;
+    text-align:center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin:0;
+    padding:0;
+}
+
+.App.mobile_true .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand:nth-child(2) img{
+    position:relative;
+    left:0;
+    top:1vh;
+    margin:0;
+    padding:0;
+}

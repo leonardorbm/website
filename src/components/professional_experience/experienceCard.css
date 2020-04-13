@@ -1,0 +1,61 @@
+.experienceCard{
+    border-bottom:1px solid #a61400;
+    width:90%;
+    margin: 0 0 1vh 0;
+    padding:1vh 1vw 0 1vh;
+}
+
+.experienceCard .company{
+
+    padding:0;
+    margin:0;
+}
+.experienceCard .title{
+    font-weight: bold;
+    font-size:110%;
+    padding:0;
+    margin:0;
+}
+.experienceCard .duration, .experienceCard .location{
+    color:slategrey;
+    margin:0 0 0 1vw;
+}
+
+.experienceCard .description{
+    margin: 1vh 0 0 0;
+}
+
+.experienceCardsWrapper{
+    background-color: white;
+    border: 1px solid black;
+    width:95%;
+    padding:2vh 2vw 1vh 2vw;
+    border-radius:1vh;
+    overflow-y:scroll;
+    height:75vh;
+}
+
+.App.mobile_true .content, .App.mobile_true .content #professionalExperience div {
+    border:none;
+    font-size:95%;
+    width:100vw;
+
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.App.mobile_true .content #professionalExperience h3{
+    font-size:120%;
+
+}
+.App.mobile_true .content #professionalExperience #experienceCardsWrapper{
+    border:none;
+
+    margin:0;
+    padding:0;
+}
+
+.App.mobile_true .content #professionalExperience #experienceCardsWrapper .experienceCard{
+    margin:0;
+    padding:0;
+
+}

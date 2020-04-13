@@ -1,0 +1,231 @@
+{
+  "en":{
+    "Contacts":{
+      "title": "Contacts",
+      "paragraphs": [
+        "E-mail: contact@mail.com.au"
+      ]
+    },
+    "Skills": {
+      "title": "Skills",
+      "paragraphs": [
+        "Minerals Processing Engineering and Software Engineering"
+      ]
+    },
+    "About Us":{
+      "title": "About me",
+      "paragraphs": "This is a placeholder to talk about our company"
+    },
+    "EmploymentHistory":[
+      {
+        "serialNumber":7,
+        "title": "Software Engineer",
+        "employmentType": "Full-time",
+        "company": " Bank",
+        "location": "Melbourne, Australia",
+        "start": "2019-07-19",
+        "end": "present",
+        "description": ""
+      },
+      {
+        "serialNumber":6,
+        "title": "IBL Software Engineer",
+        "employmentType": "Full-time",
+        "company": "Bank",
+        "location": "Melbourne, Australia",
+        "start": "2018-07-18",
+        "end": "2019-07-18",
+        "description": "IBL Software Engineer"
+      },
+      {
+        "serialNumber":5,
+        "title": "Data Communications and Net-centric computing Tutor",
+        "employmentType": "Casual",
+        "company": "University",
+        "location": "Melbourne, Australia",
+        "start": "2018-02-20",
+        "end": "2018-06-30",
+        "description": "Casual tutor at University for Data Communication and Net-centric computing . The key role tasks are:\n- Delivering of tutorial classes;\n- Providing assistance to students during tutorials;\n- Assisting head tutors in answering additional student queries;\n- Marking of assignments;\n\nCourse overview: http://www1.xxx.com"
+      },
+      {
+        "serialNumber":4,
+        "title": "Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Corporation",
+        "location": " Portugal",
+        "start": "2015-10-15",
+        "end": "2016-11-30",
+        "description": "- Providing daily technical support to processing team members so they are able to meet their production targets\n- Reviewing, managing, and improving metallurgical performance to meet long-term targets\n- Ensuring expenditure on production consumables, reagents and laboratory operations is in line with the operating cost budget\n- Liaising with maintenance and processing teams to ensure optimum performance of the plant.\n- Optimising operation of processing equipment"
+      },
+      {
+        "serialNumber":3,
+        "title": "Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Western Australia",
+        "start": "2012-01-05",
+        "end": "2015-02-15",
+        "description": "An Australian mining company, listed on the Australian Securities Exchange (ASX). It operates the site that produces 68,000 tonnes of contained copper in concentrate per year through processing 1.5 Mt of massive sulphide ore. The site has been operating since 2012 and has generated over $1 billion in revenue.\n\nKey Responsibilities\n- Providing daily technical support to processing team members so they are able to meet their production targets\n- Reviewing, managing, and improving metallurgical performance to meet long-term targets\n- Metallurgical accounting and reporting\n- Recording, and reporting on, overall equipment effectiveness\n- Ensuring expenditure on production consumables, reagents and laboratory operations is in line with the operating cost budget\n- Liaising with maintenance and processing teams to ensure optimum performance of the plant.\n- Implementing and maintaining short-term and medium-term production planning to provide accurate, detailed forecasts\n- Optimising operation of processing equipment (e.g. jaw crusher, SAG and Ball mills, flotation cells, thickeners, froth buster and Larox pressure filter)\n- Participating as a member of the business’ Emergency Response Team (2013)"
+      },
+      {
+        "serialNumber":2,
+        "title": "Pilot Plant Coordinator",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Brumadinho, Brazil",
+        "start": "2010-07-01",
+        "end": "2011-11-1",
+        "description": "Company operates five mines located at the Iron Quadrangle and produces 4 Mt per year of iron ore concentrate. It also runs a Technological Development Department which incorporates chemical and metallurgical laboratories, a pilot plant facility, and an engineering team to progress greenfield project studies.\n\n- Managing a crew of five Process Technicians and two Assistants\n- Planning, monitoring, and executing pilot plant test works for greenfield iron ore projects, with a focus on grinding, flotation, dense medium separation and dewatering processes\n- Performing metallurgical mass balancing for the tested circuit\n- Interpreting pilot plant results and performing processing simulations to support design criteria for major projects\n- Consolidating the processing route tested"
+      },
+      {
+        "serialNumber":1,
+        "title": "Plant Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": " Mine, Brazil",
+        "start": "2009-01-01",
+        "end": "2010-06-10",
+        "description": "Company was an Australian-based company that operated a sulphide nickel mine in Brazil ( Mine Site). A total of 6.3 Mt of ore is processed annually through its flotation processing plant to produce around 115 kt of nickel concentrate at 13% Ni. The deposit is supported by an open pit mine with an anticipated life of 20 years.\n\nKey Responsibilities\n- Developing the metallurgical accounting system\n- Defining daily processing targets, including optimisation of flotation and grinding processes\nProviding engineering support to the operational team during the commissioning and start up of the sulphide nickel plant\n- Studying, planning, and monitoring the test works for the de-watering optimisation process\n- Providing daily technical support to processing team members, so they are able to meet their production targets\n- Developing training packages, and delivering onsite training for all Operators throughout the mine\n- Optimising operation of processing equipment (e.g. SAG and Ball mills, tank cells, and thickeners, online assays analysers, and Larox pressure filter)"
+      },
+      {
+        "serialNumber":0,
+        "title": "Minerals Processing Engineer",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Belo Horizonte, Brazil",
+        "start": "2006-08-03",
+        "end": "2008-12-12",
+        "description": "An engineering company with extensive experience in multidisciplinary industrial projects and an emphasis on the mineral sector (e.g. concentration plants, pelletizing plants, the steel industry, and non-ferrous metallurgy). It provides support to all stages of projects: design (processing route definition, conceptual and feasibility studies, detailed engineering), construction (engineering, procurement and management), commissioning, and operations (technical support and plant optimisations).\n\nDeveloping technical specifications for designed equipment\n- Planning and managing laboratory and pilot plant scale test works to consolidate engineering design criteria\n- Performing cost optimisation studies for processing routes\n- Dimensioning of processing equipment to support greenfield and brownfield mineral processing plants projects"
+      }
+    ],
+    "skills_to_do": [
+      {"label":"Node JS", "description": "Utilised at my current job at NAB"},
+      {"label":"React JS", "description": "Utilised at my current job at NAB"},
+      {"label":"PostgreSQL","description": "Utilised at my current job at NAB"},
+      {"label":"Javascript", "description": "Utilised at my current job at NAB"},
+      {"label":"AWS", "description": "Utilised at my current job at NAB"},
+      {"label":"AWS Lambda", "description": "Utilised at my current job at NAB"},
+      {"label":"AWS API Gateway", "description": "Utilised at my current job at NAB"},
+      {"label":"AWS S3","description": "Utilised at my current job at NAB"},
+      {"label":"AWS Route 53","description": "Utilised at my current job at NAB"},
+      {"label":"AWS SES", "description": "Utilised at my current job at NAB"},
+      {"label":"AWS Workmail", "description": "Utilised at my current job at NAB"},
+      {"label":"Terraform", "description": "Utilised at my current job at NAB"}
+    ],
+    "skills":[
+
+      {"label":"Java", "description": "Experience in developing JAVA applications, as demonstrated through my current studies at University, having achieved high distinction in Programming Techniques – JAVA (University, 2017) and I am currently finishing a subject in Software Architecture: Design and Implementation using JAVA"},
+
+      {"label":"Minerals Processing Design", "description": "Proven ability to work in projects involving detailed technical design, as I used to define engineering criteria for developing industrial plants (XXXX, 2008 - 2009) and also follow specifications defined by other engineers (Company Name, 2015 – 2016, Company Name, 2012 – 2015)."},
+      {"label":"Problem Solving", "description": "Poven analytical and problem solving skills, as I used to design industrial process, dimension equipments to be installed and optimise industrial plant bottlenecks (Company Name, 2008-2009, Company Name, 2009-2010, Company Name, 2010 – 2011, Company Name 2012 – 2015, Company Name, 2015 – 2016)"},
+      {"label":"Microsoft suite", "description": "Proven ability to utilise Microsoft suite, specially EXCEL, since all the companies I worked for utilised this suite extensively and I also developed complex managing systems for metallurgical accounting utilising EXCEL / VBA (Company Name, 2010 – 2011, Company Name, 2012 – 2015)"},
+      {"label":"Soft Skills", "description": "Great soft skills, as my main duties in the mine sites I worked for was to provide mentoring for operational personnel and I am currently engaged into tutoring Data Communications and Net-centric computing at University"}
+
+    ]
+  },
+  "pt":{
+    "Contacts":{
+      "title": "Contatos",
+      "paragraphs": [
+        "E-mail: contato@mail.com.au"
+      ]
+    },
+    "skills":[
+
+      {"label":"Java", "description": "Experience in developing JAVA applications, as demonstrated through my current studies at University, having achieved high distinction in Programming Techniques – JAVA (University, 2017) and I am currently finishing a subject in Software Architecture: Design and Implementation using JAVA"},
+
+      {"label":"Minerals Processing Design", "description": "Proven ability to work in projects involving detailed techical design, as I used to define engineering criteria for developing industrial plants ( Engineering Projects, 2008 - 2009) and also follow specifications defined by other engineers (Company, 2015 – 2016, Company, 2012 – 2015)."},
+      {"label":"Problem Solving", "description": "Poven analytical and problem solving skills, as I used to design industrial process, dimension equipments to be installed and optimise industrial plant bottlenecks (Company, 2008-2009, Company, 2009-2010, Company, 2010 – 2011, Company 2012 – 2015, Company, 2015 – 2016)"},
+      {"label":"Microsoft suite", "description": "Proven ability to utilise Microsoft suite, specially EXCEL, since all the companies I worked for utilised this suite extensively and I also developed complex managing systems for metallurgical accounting utilising EXCEL / VBA (Company, 2010 – 2011, Company, 2012 – 2015)"},
+      {"label":"Soft Skills", "description": "Great soft skills, as my main duties in the mine sites I worked for was to provide mentoring for operational personnel and I am currently engaged into tutoring Data Communications and Net-centric computing at University"}
+
+    ],
+    "About Us":{
+      "title": "Sobre nós",
+      "paragraphs": "Um breve texto sobre a nossa empresa..."
+
+    },
+    "EmploymentHistory":[
+      {
+        "serialNumber":7,
+        "title": "Engenheiro de Software",
+        "employmentType": "Integral",
+        "company": " Bank",
+        "location": "Melbourne, Austrália",
+        "start": "2019-07-19",
+        "end": "present",
+        "description": ""
+      },
+      {
+        "serialNumber":6,
+        "title": "Estagiário em Engenharia de Software",
+        "employmentType": "Integral",
+        "company": " Bank",
+        "location": "Melbourne, Australia",
+        "start": "2018-07-18",
+        "end": "2019-07-18",
+        "description": "Estagiário em Engenharia de Software"
+      },
+      {
+        "serialNumber":5,
+        "title": "Tutor em Comunicação de Dados e Rede",
+        "employmentType": "Casual",
+        "company": "University",
+        "location": "Melbourne, Australia",
+        "start": "2018-02-20",
+        "end": "2018-06-30",
+        "description": "Tutor para aulas de graduação e pós-graduação em Comunicação de dados e Rede. Principais funções:\n- Preparar aulas e lecionar;\n- Dar suporte a estudantes durante as tarefas em classe;\n- Auxiliar a equipe a responder questões dos estudantes;\n- Corrigir trabalhos e provas;\n\nLink do curso: http://www1.wwww.wwww"
+      },
+      {
+        "serialNumber":4,
+        "title": "Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Corporation",
+        "location": "Portugal",
+        "start": "2015-10-15",
+        "end": "2016-11-30",
+        "description": "- Providing daily technical support to processing team members so they are able to meet their production targets\n- Reviewing, managing, and improving metallurgical performance to meet long-term targets\n- Ensuring expenditure on production consumables, reagents and laboratory operations is in line with the operating cost budget\n- Liaising with maintenance and processing teams to ensure optimum performance of the plant.\n- Optimising operation of processing equipment"
+      },
+      {
+        "serialNumber":3,
+        "title": "Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Western Australia",
+        "start": "2012-01-05",
+        "end": "2015-02-15",
+        "description": "An Australian mining company, listed on the Australian Securities Exchange (ASX). It operates the  site that produces 68,000 tonnes of contained copper in concentrate per year through processing 1.5 Mt of massive sulphide ore. The site has been operating since 2012 and has generated over $1 billion in revenue.\n\nKey Responsibilities\n- Providing daily technical support to processing team members so they are able to meet their production targets\n- Reviewing, managing, and improving metallurgical performance to meet long-term targets\n- Metallurgical accounting and reporting\n- Recording, and reporting on, overall equipment effectiveness\n- Ensuring expenditure on production consumables, reagents and laboratory operations is in line with the operating cost budget\n- Liaising with maintenance and processing teams to ensure optimum performance of the plant.\n- Implementing and maintaining short-term and medium-term production planning to provide accurate, detailed forecasts\n- Optimising operation of processing equipment (e.g. jaw crusher, SAG and Ball mills, flotation cells, thickeners, froth buster and Larox pressure filter)\n- Participating as a member of the business’ Emergency Response Team (2013)"
+      },
+      {
+        "serialNumber":2,
+        "title": "Pilot Plant Coordinator",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Brumadinho, Brazil",
+        "start": "2010-07-01",
+        "end": "2011-11-1",
+        "description": "Company operates five mines located at the Iron Quadrangle and produces 4 Mt per year of iron ore concentrate. It also runs a Technological Development Department which incorporates chemical and metallurgical laboratories, a pilot plant facility, and an engineering team to progress greenfield project studies.\n\n- Managing a crew of five Process Technicians and two Assistants\n- Planning, monitoring, and executing pilot plant test works for greenfield iron ore projects, with a focus on grinding, flotation, dense medium separation and dewatering processes\n- Performing metallurgical mass balancing for the tested circuit\n- Interpreting pilot plant results and performing processing simulations to support design criteria for major projects\n- Consolidating the processing route tested"
+      },
+      {
+        "serialNumber":1,
+        "title": "Plant Metallurgist",
+        "employmentType": "Full-time",
+        "company": "Company",
+        "location": "Mine, Brazil",
+        "start": "2009-01-01",
+        "end": "2010-06-10",
+        "description": "Company was an Australian-based company that operated a sulphide nickel mine in Brazil ( Mine Site). A total of 6.3 Mt of ore is processed annually through its flotation processing plant to produce around 115 kt of nickel concentrate at 13% Ni. The deposit is supported by an open pit mine with an anticipated life of 20 years.\n\nKey Responsibilities\n- Developing the metallurgical accounting system\n- Defining daily processing targets, including optimisation of flotation and grinding processes\nProviding engineering support to the operational team during the commissioning and start up of the sulphide nickel plant\n- Studying, planning, and monitoring the test works for the de-watering optimisation process\n- Providing daily technical support to processing team members, so they are able to meet their production targets\n- Developing training packages, and delivering onsite training for all Operators throughout the mine\n- Optimising operation of processing equipment (e.g. SAG and Ball mills, tank cells, and thickeners, online assays analysers, and Larox pressure filter)"
+      },
+      {
+        "serialNumber":0,
+        "title": "Minerals Processing Engineer",
+        "employmentType": "Full-time",
+        "company": "INDUSTRIAL PROJECTS",
+        "location": "Belo Horizonte, Brazil",
+        "start": "2006-08-03",
+        "end": "2012-12-12",
+        "description": "An engineering company with extensive experience in multidisciplinary industrial projects and an emphasis on the mineral sector (e.g. concentration plants, pelletizing plants, the steel industry, and non-ferrous metallurgy). It provides support to all stages of projects: design (processing route definition, conceptual and feasibility studies, detailed engineering), construction (engineering, procurement and management), commissioning, and operations (technical support and plant optimisations).\n\nDeveloping technical specifications for designed equipment\n- Planning and managing laboratory and pilot plant scale test works to consolidate engineering design criteria\n- Performing cost optimisation studies for processing routes\n- Dimensioning of processing equipment to support greenfield and brownfield mineral processing plants projects"
+      }
+    ]
+  }
+}

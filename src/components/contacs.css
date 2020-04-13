@@ -1,0 +1,3 @@
+.contacts div span, .contacts div svg:hover{
+    cursor:pointer;
+}

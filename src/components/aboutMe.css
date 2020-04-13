@@ -1,0 +1,119 @@
+
+.aboutMeInner{
+}
+
+.aboutMe.mobile_false .aboutMeInner .left .picture{
+    border-radius: 50%;
+    width:20vw;
+    height:20vw;
+    display: inline-block;
+    overflow:auto;
+    box-shadow: 0 2vh 4vh 0 black;
+}
+
+.aboutMe.mobile_false .aboutMeInner .left .picture:hover{
+    border-radius: 50%;
+    width:20vw;
+    height:20vw;
+    display: inline-block;
+    overflow:auto;
+    box-shadow: 0 1vh 2vh 0 black;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.aboutMe.mobile_false .aboutMeInner .left .picture img{
+    position:relative;
+    left:0;
+    top:-3vh;
+    max-height:133%;
+    max-width:133%;
+}
+
+.aboutMe.mobile_false .aboutMeInner .left .picture p{
+    position:fixed;
+}
+
+.aboutMe.mobile_false .aboutMeInner .paragraphs{
+    top:15vh;
+    position:fixed;
+    left:20%;
+    margin: 0 0 0 5vw;
+    width:65%;
+    max-height: 70%;
+    float:left;
+    overflow-y: scroll;
+    text-align: justify;
+}
+.left{
+    width:20%;
+    text-align:center;
+}
+
+
+/*mobile*/
+.aboutMe.mobile_true{
+    position:relative;
+    display:inline-block;
+    width:100vh;
+
+}
+
+.aboutMe.mobile_true .aboutMeInner{
+    display:inline-block;
+    overflow-y: scroll;
+
+}
+
+
+.aboutMe.mobile_true .aboutMeInner .paragraphs{
+    display:inline-block;
+    width:100vw;
+    margin:0;
+    padding:0;
+}
+
+.aboutMe.mobile_true .aboutMeInner .left{
+    width:100vw;
+    text-align:center;
+}
+.aboutMe.mobile_true .aboutMeInner .left p{
+    width:100vw;
+    text-align:center;
+}
+.aboutMe.mobile_true .aboutMeInner .left .picture{
+    border-radius: 50%;
+    width:20vw;
+    height:20vw;
+    margin:0 0 0 40vw;
+    overflow:auto;
+    box-shadow: 0 0.5vh 1vh 0 black;
+    text-align:center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.aboutMe.mobile_true .aboutMeInner .left .picture img{
+    position:relative;
+    left:0;
+    top:-3vh;
+    max-height:133%;
+    max-width:133%;
+}
+
+.aboutMe.mobile_false .aboutMeInner .left .picture p{
+    position:fixed;
+}
+
+.aboutMe.mobile_false .aboutMeInner .paragraphs{
+    top:15vh;
+    position:fixed;
+    left:20%;
+    margin: 0 0 0 5vw;
+    width:65%;
+    max-height: 70%;
+    float:left;
+    overflow-y: scroll;
+    text-align: justify;
+}
+
